@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-import "./App.css";
+import "./app.css";
 
 const SYSTEM_PROMPT = {
   role: "system",
